@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on linkdin 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: You will be aze after working with me
+- ⚡ Fun fact: You will be amaze after working with me
 
 <!---
 Manav-luffy/Manav-luffy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
